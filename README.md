@@ -1,4 +1,4 @@
-# ♻️ Smart Waste Classification (ML ISE-2)
+   Live demo: https://huggingface.co/spaces/YOUR-HF-USERNAME/smart-waste-classifier# ♻️ Smart Waste Classification (ML ISE-2)
 
 MobileNetV2 transfer-learning classifier (6 classes: cardboard, glass, metal, paper, plastic, trash)
 with a Streamlit app (`streamlit_app.py`) and a Gradio app (`app.py`).
